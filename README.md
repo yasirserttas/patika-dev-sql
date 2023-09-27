@@ -1,1 +1,1 @@
-# patika-dev- ödev klasörlerine girerseniz sql dosyalarının içinde en başta sorular bulunmakta 
+# patika-dev- ödev klasörlerine girerseniz sql dosyalarının içinde soruları ve cevapları bulacaksınız 
